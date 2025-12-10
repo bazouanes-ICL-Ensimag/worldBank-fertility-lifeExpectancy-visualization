@@ -5,14 +5,10 @@
 
 This project was created to generate a static figure and an animated figure using R code. The animated figure visualizes the global demographic transition from 1960 to 2011 using World Bank data. Whereas, the static figure only focuses on the global demographic state in 2010.
 
-## Figures 
+## Figure
 
 1. ![World Bank Demographic state (2010) ](figure-worldBank-population-2010.png)
-
 *Scatter plot showing life expectancy vs fertility rate for countries in 2010, with point size representing population and color representing geographic region.*
-
-2. ![World Bank Demographic transition ](run code to view)
-  *Animated scatter plot from 1960 to 2011 with interactive year selection.*
  
 ## Code Files
 
