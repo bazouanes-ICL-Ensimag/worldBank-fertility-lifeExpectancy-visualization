@@ -3,7 +3,7 @@
 
 ## Description
 
-This project was created to generate a static figure and an animated figure using R code. The animated figure visualizes the global demographic transition from 1960 to 2011 using World Bank data. Whereas, the static figure only focuses on the global demographic state in 2010
+This project was created to generate a static figure and an animated figure using R code. The animated figure visualizes the global demographic transition from 1960 to 2011 using World Bank data. Whereas, the static figure only focuses on the global demographic state in 2010.
 
 ## Figures 
 
