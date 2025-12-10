@@ -7,7 +7,7 @@ This project was created to generate a static figure and an animated figure usin
 
 ## Figure
 
-1. ![World Bank Demographic state (2010) ](figure-worldBank-population-2010.png)
+![World Bank Demographic state (2010) ](figure-worldBank-population-2010.png)
 *Scatter plot showing life expectancy vs fertility rate for countries in 2010, with point size representing population and color representing geographic region.*
  
 ## Code Files
