@@ -1,4 +1,3 @@
-# worldbank-fertility-lifeExpectancy-analysis
 
 # Demographic Transition Visualization
 
